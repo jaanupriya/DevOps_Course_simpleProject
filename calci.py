@@ -26,6 +26,3 @@ print(f"The division of {num1} and {num2} is : {division}")
 
 print("Bye")
 
-
-print("Bye")
-
