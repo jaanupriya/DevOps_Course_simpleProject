@@ -29,4 +29,4 @@ print(f"The subtraction of {num1} and {num2} is: {subtraction}")
 print(f"The multiplication of {num1} and {num2} is: {multiplication}")
 print(f"The division of {num1} and {num2} is: {division}")
 
-print("Bye")
+print("Byee")
